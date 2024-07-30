@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhoneDetailsApp</string>
+    <string-array name="phone_models">
+        <item>iPhone</item>
+        <item>Samsung</item>
+        <item>Google Pixel</item>
+        <item>OnePlus</item>
+        <item>Sony Xperia</item>
+    </string-array>
+</resources>
